@@ -1,0 +1,1 @@
+create column table "<Schema_name>"."ZZSTUDENT"( "ROLLNUMBER" NVARCHAR (10) not null, "NAME" NVARCHAR (10) , "YEAR" NVARCHAR (4) );
